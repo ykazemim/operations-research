@@ -1,15 +1,36 @@
-# Operations Research
-This repository contains some questions along with their answers which are related to operations research.
+# Operations Research — Pyomo Implementations
 
-## Contents
-- **Notebooks**: Jupyter/Colab notebooks implementing different models.
-- **Google Colab Links**
-- **Data**: (If applicable) Sample datasets used.
+This repository contains my work for the *Operations Research* course at the Faculty of Mathematics and Computer Science, Amirkabir University of Technology (Tehran Polytechnic).
+The course was instructed by **Dr. Farnaz Hooshmand**.
 
-## How to Use
-1. Open the Colab links or download the notebooks.
-2. Run the cells step by step.
-3. Modify parameters as needed.
+The notebooks here focus on modeling and solving optimization problems using **[Pyomo](http://www.pyomo.org/)** in Python. Each notebook corresponds to a set of exercises from the course and includes both the problem formulation and its implementation.
+
+---
+
+## Contents  
+  
+* Modeling
+* Linear Programming
+* Cutting Stock Problem
+* Transportation & Assignment Problem
+
+---
+
+## Usage
+
+Each notebook is self-contained. You can either:
+
+* Open the `.ipynb` files directly on an editor, or
+* Run them interactively in **Google Colab** via the provided links (in text file).
+
+---
+
+## Notes
+
+* These notebooks are educational material, reflecting exercises that I have completed during the course. They can be much improved and I would be glad receiving your suggestions.
+
+---
 
 ## License
-This project is for educational purposes. Feel free to use it but give proper credit.
+
+MIT License — feel free to use or adapt the code.
